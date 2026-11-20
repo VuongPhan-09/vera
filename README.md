@@ -79,7 +79,7 @@ step-by-step run guide in Vietnamese.
 
 ## Credits
 
-Course project at FPT University (Ho Chi Minh City), Fall 2026, team of 5.
+Course project at FPT University (Ho Chi Minh City).
 The system, dataset, experiments and demo were designed and implemented by
 **Phan Ngoc Vuong** ([@VuongPhan-09](https://github.com/VuongPhan-09)).
 
